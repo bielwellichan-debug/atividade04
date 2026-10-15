@@ -1,0 +1,103 @@
+body{
+            background-color: rgb(176, 135, 135);
+            background-attachment: fixed;
+            background-size: cover;
+        }
+
+
+h1{
+    text-align: center;
+            color: black;
+            text-shadow: 4px 4px 2px rgb(77, 77, 201);
+            font-size: 35px;
+}
+
+h2{
+    border: 15px double black;
+    padding: 5px;
+    background-color: lightblue;
+    color: black;
+    font-size: 25px;
+}
+
+ #briggs{
+        background-color: cornflowerblue;
+        border: 5px groove black;
+        padding: 15px 15px 20px;
+        margin: 30px 40px;
+        box-sizing: content-box;
+        width: 500px;
+    }
+
+#dublagens{
+        background-color: royalblue;
+        border: 5px groove black;
+        padding: 15px 15px 20px;
+        margin: 30px 40px;
+        box-sizing: content-box; 
+        width: 500px;
+    }
+
+p{
+    font-size: 18px;
+}
+
+ul{
+    font-size: 20px;
+}
+
+#insta{
+    font-size: 21px;
+    color: darkcyan;
+}
+#insta:visited{
+    color: rgb(185, 212, 130);
+}
+#insta:hover{
+    color: blueviolet;
+}
+#insta:active{
+    color: fuchsia;
+}
+
+#youtube{
+    font-size: 21px;
+    color: mediumspringgreen;
+}
+#youtube:visited{
+    color: rgb(185, 212, 130);
+}
+#youtube:hover{
+    color: blueviolet;
+}
+#youtube:active{
+    color: fuchsia;
+}
+
+#face{
+    font-size: 21px;
+    color: rebeccapurple;
+}
+#face:visited{
+    color: rgb(185, 212, 130);
+}
+#face:hover{
+    color: blueviolet;
+}
+#face:active{
+    color: fuchsia;
+}
+
+#tiktok{
+    font-size: 21px;
+    color: lawngreen;
+}
+#tiktok:visited{
+    color: rgb(185, 212, 130);
+}
+#tiktok:hover{
+    color: blueviolet;
+}
+#tiktok:active{
+    color: fuchsia;
+}
